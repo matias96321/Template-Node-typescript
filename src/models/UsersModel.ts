@@ -1,5 +1,4 @@
-export class UsersModel{
-    create(user: any) {
-
-    }
+export class UsersModel {
+  name: string
+  age: number
 }
