@@ -1,4 +1,4 @@
-# Template node typescript(Api's) backend + test
+# node-typescript-template + test
 
 to use when creating a simple api, shortens the steps
 
