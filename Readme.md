@@ -1,6 +1,6 @@
 # Node.js-TypeScript-Jest-Template
 
-Node.js + TypeScript + Jest template with simple and initial settings to start a quick project
+Node.js + TypeScript + Jest - Template with simple and initial settings to start a quick project
 
 ## Technology
 - TypeScrit
