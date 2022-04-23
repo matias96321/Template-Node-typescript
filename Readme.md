@@ -1,10 +1,11 @@
-# node-typescript-template + test
+# Node.js-TypeScript-Jest-Template
 
-to use when creating a simple api, shortens the steps
+Node.js + TypeScript + Jest template with simple and initial settings to start a quick project
 
 ## Technology
 - TypeScrit
 - JavaScript
-- eslint 
-- express
-- jest
+- Node.js
+- Eslint 
+- Express
+- Jest
